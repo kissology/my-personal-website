@@ -1,13 +1,15 @@
-    header {
-      text-align: center;
-      background: url('http://imgur.com/UJKnRTH.png');
-      background-size: cover;
-      color: WHITE;
-    }
+header {
+  text-align: center;
+  background: url('http://imgur.com/UJKnRTH.png');
+  background-size: cover;
+  color: WHITE;
+  }
+   
     a {
       color: pink;
       margin: 20px;
     }
+
     h1 {
       text-align: center;
       font-size: 70px;
@@ -45,6 +47,12 @@
     }
     
     body {
-        background: url('http://imgur.com/UJKnRTH.png');
+        background-image: url('https://imgur.com/9bjUpAH.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-color: rgba(170,170,204,0.5);
+        
     }
+
     
